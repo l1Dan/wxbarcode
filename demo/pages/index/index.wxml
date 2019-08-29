@@ -11,4 +11,5 @@
       <canvas canvas-id="qrcode" />
     </view>
   </view>
+  <button class="button" type="warn" bindtap="next"> 点击跳转 </button>
 </view>

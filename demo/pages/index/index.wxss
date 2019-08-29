@@ -68,3 +68,8 @@ page {
     width: 420rpx;
     height: 420rpx;
 }
+
+.button {
+  margin-top: 30px;
+  width: 90%;
+}

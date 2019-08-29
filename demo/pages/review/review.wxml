@@ -1,0 +1,5 @@
+<!--pages/review/review.wxml-->
+
+<view>
+  <custom />
+</view>

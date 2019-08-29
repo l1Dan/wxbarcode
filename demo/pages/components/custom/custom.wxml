@@ -1,0 +1,5 @@
+<view class="barcode">
+  <view class="barnum">{{code}}</view>
+  <canvas canvas-id="custom-barcode" />
+</view>
+<button class="button" type="warn" bindtap="refresh"> 刷新 </button>
